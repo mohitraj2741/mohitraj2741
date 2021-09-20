@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohitraj2741
-- 👀 I’m interested in problem solving android as well as Web development
+- 👀 I’m interested in problem solving, Android as well as Web development
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me- 
   LinkedIn-https://www.linkedin.com/in/mohit-raj-92ab93155/
