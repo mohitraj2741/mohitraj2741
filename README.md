@@ -5,7 +5,6 @@
 - 📫 How to reach me- 
 - 
   LinkedIn-https://www.linkedin.com/in/mohit-raj-92ab93155/
-  GeeksForGeeks- https://auth.geeksforgeeks.org/user/mohitraj2741
   Hacckerrank-https://www.hackerrank.com/mohitraj2741
 
 <!---
